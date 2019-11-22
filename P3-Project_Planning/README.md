@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 ![alt text][img1]
-[img1]: 
+[img1]: https://github.com/Mary-Sheldon/liftoff-assignments/blob/master/P3-Project_Planning/20191120_152713%20(1).jpg
 
 ![alt text][img2]
 [img2]: 
